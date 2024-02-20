@@ -1,1 +1,1 @@
-# HopsMarketClient
+# React + TypeScript + Vite
